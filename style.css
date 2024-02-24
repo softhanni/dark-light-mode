@@ -1,0 +1,41 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.container{
+    width: 50%;
+    /* background-color: aqua; */
+    margin: auto;
+    
+
+}
+.head{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: purple;
+    /* color: white; */
+}
+
+.content h2{
+    font-size: 25px;
+    color: palevioletred;
+
+}
+
+.content span{
+    font-size: larger;
+    color: grey;
+}
+
+.content p{
+    font-size: larger;
+    
+}
